@@ -1,4 +1,9 @@
 int sum( int a, int b )
 {
-    return sum;
+    return a + b;
+}
+
+int main()
+{
+    return 0;
 }

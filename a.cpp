@@ -5,5 +5,6 @@ int sum( int a, int b )
 
 int main()
 {
+    std::cout << "First commit" << std::endl;
     return 0;
 }
